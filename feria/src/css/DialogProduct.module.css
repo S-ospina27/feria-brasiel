@@ -1,0 +1,10 @@
+.input_dialog_category {
+  margin-right: 10px;
+  border-radius: 15px;
+  padding: 8px;
+  border: 1px solid grey;
+  outline: #094161;
+  color: grey;
+  width:200px;
+  margin-left: 15px;
+}

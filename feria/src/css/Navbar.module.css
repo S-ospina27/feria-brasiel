@@ -1,0 +1,19 @@
+.img_navbar_logo{
+    width: 200px;
+}
+
+.container_app_index{
+ background-color: #FFED00;
+ width: 100vw;
+ height: 30px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+
+@media only screen and (max-width: 424px) {
+ .container_app_index p{
+    font-size: 12px;
+ }   
+}

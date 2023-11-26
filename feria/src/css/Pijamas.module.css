@@ -1,0 +1,31 @@
+.title_pijamas {
+  text-align: center;
+  color: #252b59;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.container_inputSearch{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-bottom: 10px;
+}
+
+
+.input_search_pijama {
+    border-radius: 10px;
+    width: 20%;
+    padding: 10px;
+    border: 1px solid #bebec0;
+    outline: #0f147c;
+    color: grey;
+  }
+
+.input_search_pijama::placeholder{
+    color: #0f147c;
+}
+
+.input_search_pijama:focus {
+    border: 1px solid #0f147c;
+  }

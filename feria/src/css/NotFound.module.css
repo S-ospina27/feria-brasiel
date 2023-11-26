@@ -1,0 +1,9 @@
+.foto_nofound {
+  background: url("/src/assets/img/Found.png");
+  object-fit: contain;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 95vw;
+  height: 95vh;
+}
